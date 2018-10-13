@@ -1,0 +1,98 @@
+H1
+{
+    color: azure;
+    font-size: 200%;
+    font-family: fantasy;
+    text-align: center;
+
+}
+h2
+{
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 100%;
+}
+ul
+{
+    
+    background: #8B0000
+}
+li
+{
+    display: inline;
+}
+menu
+{
+    text-align: center;
+}
+p
+{
+    color:azure;
+    font-size: 150%;
+    text-align: center;
+    
+}
+.center-content {
+    position: absolute;
+    left: 23%;
+    right: 23%;
+}
+input{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    margin-right: -60%;
+}
+textarea{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    margin-right: -60%;
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    margin-right: -60%;
+}
+#nav
+{
+    
+    width: 300px;
+    float: left;
+    background: orange;
+}
+#menu
+{
+    color: aliceblue;
+    background: #8B0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: .5s linear;
+    padding: 1em;
+}
+#products
+{
+    color: beige;
+    background: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#internal
+{
+    color:azure;
+    font-size: 150%;
+    text-align: center;
+}
+#right
+{
+    height: auto;
+    width: 300px;
+    float: right;
+    background: orange;
+}
+#contacts
+{
+    color: antiquewhite;
+    background: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
